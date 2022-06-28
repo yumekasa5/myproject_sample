@@ -23,4 +23,3 @@ error_msg = 'error_message'
 def main():
     logger.debug('[START] My System Start')
     print('[SUCCESS] py -m  myproject')
-    print('[SUCCESS] py -m  myproject')
